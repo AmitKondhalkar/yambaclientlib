@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="0e5f8b97-de87-46fa-a67b-4b35ed762ef5" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="0e5f8b97-de87-46fa-a67b-4b35ed762ef5s_assembly" assemblyId="b10d39efcac24810b7987e393580fd66">
+<Part name="0e5f8b97-de87-46fa-a67b-4b35ed762ef5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0527037 0.0485632 0.437038" rotation="AD: 0.9993811820513779 0.11212668096915394 -0.34044651796941594 203.907" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
